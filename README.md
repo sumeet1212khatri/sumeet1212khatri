@@ -117,8 +117,8 @@ Presence     : Per-user colored cursors · typing indicators · user join/leave 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sumeet_khatri?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/sumeet_khatri/)
 
 ### CodeChef
-[![CodeChef](https://cp-logo.vercel.app/codechef/sumeetkhatri_2?logo=true)](https://www.codechef.com/users/sumeetkhatri_2)
-
+[![CodeChef](https://img.shields.io/badge/CodeChef-sumeetkhatri__2-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumeetkhatri_2)
+ 
 </div>
 
 ---
