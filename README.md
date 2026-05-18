@@ -37,7 +37,7 @@ Batch Prefill: 3× TTFT improvement (1013ms cold → 410ms warm, 2.47× KV speed
 Throughput   : 35 tok/s @ concurrency=1 · SSE streaming · FastAPI + Boost.Asio
 ```
 
-[![Repo](https://img.shields.io/badge/Repo-NanoMind-161b22?style=flat-square&logo=github)](https://github.com/sumeet1212khatri/NanoMind)
+[![Repo](https://img.shields.io/badge/Repo-NanoMind-161b22?style=flat-square&logo=github)]([https://github.com/sumeet1212khatri/NanoMind](https://github.com/sumeet1212khatri/Nano-Mind))
 [![HuggingFace](https://img.shields.io/badge/🤗%20Live%20Demo-NanoMind-FFD21E?style=flat-square)](https://huggingface.co/spaces/NOT-OMEGA/NanoMind)
 
 ---
