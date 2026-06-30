@@ -17,7 +17,7 @@
 class SumeetKhatri {
     const std::string focus   = "C++ Systems · LLM Inference · HFT Engines";
     const std::string college = "B.Tech IT — Indus University, Ahmedabad (2026)";
-    const std::string intern  = "SDE Intern @ STW Services LLP, Pune";
+    const std::string intern  = "SWE Intern @ STW Services LLP, Pune";
     const std::string goal    = "Systems Software Engineer";
     const std::string stack   = "C++17 | Python | AVX2/SIMD | OpenMP | FastAPI";
 };
